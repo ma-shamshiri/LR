@@ -1,5 +1,3 @@
-# LR
-
 <p align="center"> 
   <img src="images/Project Logo.png" alt="HAR Logo" width="80px" height="80px">
 </p>
