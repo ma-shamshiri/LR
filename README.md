@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Cover.jpg" alt="Breast Cancer Logo" width"80%" height="80%">
+  <img src="Cover.jpg" alt="Breast Cancer Logo" width"60%" height="60%">
 </p>
 <h1 align="left"> Literature Review on Breast Cancer Detection, Segmentation and Classification </h2>
 
